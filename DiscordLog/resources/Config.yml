@@ -1,0 +1,11 @@
+url: "https://discord.com/api/webhooks/*********/**********"
+delay: 2 #in minute
+
+events:
+  drop: true #drop item
+  cmd: true #send a command
+  join: true #join server
+  left: true #leave server
+  chat: true #chat
+  teleport: true #teleport form were to were
+  death: true #death

@@ -1,0 +1,6 @@
+---
+name: DiscordLog
+version: 0.1
+main: Doxestic\DiscordLog\Main
+api: 3.0.0
+...
